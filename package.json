@@ -1,11 +1,10 @@
 {
   "name": "ronaldo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "browserify": "^16.5.2",
-    "emailjs-com": "^2.6.3"
+    "emailjs-com": "^2.6.4"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,5 +12,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanshraj3000/port.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devanshraj3000/port/issues"
+  },
+  "homepage": "https://github.com/devanshraj3000/port#readme",
+  "description": ""
 }
